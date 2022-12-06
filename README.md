@@ -10,3 +10,6 @@ Firmware Mod Kit - https://github.com/rampageX/firmware-mod-kit <br>
 DarkerEgo Pre-compiled MIPS Binaries - https://github.com/darkerego/mips-binaries <br>
 Joe Grand (YouTube, Master Hardware Hacker!) - https://www.youtube.com/@JoeGrand <br>
 JTAGUlator (Joe Grand's awesome hardware hacking tool) - https://www.parallax.com/product/jtagulator/ <br>
+Bus Pirate - https://www.sparkfun.com/products/12942 <br>
+Binwalk - Comes with Kali, AttifyOS, Parrot, or you can install them at least <br>
+Firmwalker - https://github.com/craigz28/firmwalker <br>
