@@ -13,3 +13,4 @@ JTAGUlator (Joe Grand's awesome hardware hacking tool) - https://www.parallax.co
 Bus Pirate - https://www.sparkfun.com/products/12942 <br>
 Binwalk - Comes with Kali, AttifyOS, Parrot, or you can install them at least <br>
 Firmwalker - https://github.com/craigz28/firmwalker <br>
+Tigard - https://www.crowdsupply.com/securinghw/tigard <br>
